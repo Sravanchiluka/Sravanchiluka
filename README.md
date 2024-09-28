@@ -1,5 +1,5 @@
 - 👋 Hi, I’m chiluka Sravan
-- 👀 I’m interested in ... engineering and singing 
+- 👀 I’m interested in ... software engineer and singing 
 - 🌱 I’m currently learning ...bachelors in Artificial intelligence and Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
