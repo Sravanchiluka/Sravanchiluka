@@ -1,8 +1,8 @@
 - 👋 Hi, I’m chiluka Sravan
-- 👀 I’m interested in ... software engineer and singing 
+- 👀 I’m interested in ... developing new projects and innovations 
 - 🌱 I’m currently learning ...bachelors in Artificial intelligence and Data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Im looking for internships and job opportunities for gaining hands-on experience
+- 📫 How to reach me ... reach me at sravanchiluka6@gmail.com
 - 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: ...
 
